@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="https://tenor.com/view/github-cat-kitty-waiting-loading-gif-25774588.gif" alt="exemplo gif" width="40" height="40">
+<img src="https://tenor.com/view/github-cat-kitty-waiting-loading-gif-25774588.gif" alt="exemplo gif" width="400" height="400">
 
 > Repositório criado visando versionar o material ministrado nas aulas da matéria de Engenharia de Software de 2022/2.
 
