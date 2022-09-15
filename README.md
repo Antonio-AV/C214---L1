@@ -21,7 +21,7 @@ Aulas já ministradas no semestre:
 - [x] Aula 3
 - [x] Aula 4
 - [x] Aula 5
-- [ ] Aula 6
+- [x] Aula 6
 - [ ] Aula 7
 - [ ] Aula 8
 - [ ] Aula 9
