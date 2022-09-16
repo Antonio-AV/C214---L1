@@ -19,7 +19,7 @@
 
 1. Clone o repositório: 
 ```bash
-git clone https://github.com/FabioFiorita/C214-Lab.git && cd C214-Lab
+git clone https://github.com/Antonio-AV/C214---L1.git && cd C214---L1
 ```
 2. Entre na aula escolhida
 
