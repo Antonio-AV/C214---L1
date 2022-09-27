@@ -12,6 +12,27 @@
 
 > Repositório criado visando versionar o material ministrado nas aulas da matéria de Engenharia de Software de 2022/2.
 
+## ⚙️ Instale antes de tentar executar os projetos)
+ - [Node](https://nodejs.org/)
+ 
+## 🚀️ Executando os projetos
+
+1. Clone o repositório: 
+```bash
+git clone https://github.com/Antonio-AV/C214---L1.git && cd C214---L1
+```
+2. Entre na aula escolhida
+
+3. Instale todas as depencências
+```bash
+npm install
+```
+
+4. Rode o projeto
+```bash
+npm start
+```
+
 ### Aulas
 
 Aulas já ministradas no semestre:
@@ -21,7 +42,7 @@ Aulas já ministradas no semestre:
 - [x] Aula 3
 - [x] Aula 4
 - [x] Aula 5
-- [ ] Aula 6
+- [x] Aula 6
 - [ ] Aula 7
 - [ ] Aula 8
 - [ ] Aula 9
