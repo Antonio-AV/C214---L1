@@ -49,8 +49,8 @@ Aulas já ministradas no semestre:
 - [x] Aula 5
 - [x] Aula 6
 - [x] Aula 7
-- [ ] Aula 8
-- [ ] Aula 9
+- [x] Aula 8
+- [x] Aula 9
 - [ ] Aula 10
 
 
