@@ -33,6 +33,11 @@ npm install
 npm start
 ```
 
+5. Teste o projeto
+```bash
+npm test
+```
+
 ### Aulas
 
 Aulas já ministradas no semestre:
@@ -43,7 +48,7 @@ Aulas já ministradas no semestre:
 - [x] Aula 4
 - [x] Aula 5
 - [x] Aula 6
-- [ ] Aula 7
+- [x] Aula 7
 - [ ] Aula 8
 - [ ] Aula 9
 - [ ] Aula 10
