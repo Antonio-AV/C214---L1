@@ -24,7 +24,6 @@ jobs:
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v3
       with:
-        node-version: ${{ matrix.node-version }}
-    - run: cd Aula 8    
+        node-version: ${{ matrix.node-version }}   
     - run: npm i
     - run: npm test
