@@ -52,6 +52,11 @@ Aulas já ministradas no semestre:
 - [x] Aula 8
 - [x] Aula 9
 - [x] Aula 10
+- [x] Aula 11
+- [x] Aula 12
+- [x] Aula 13
+- [x] Aula 14
+- [x] Aula 15
 
 
 ## 💻 Pré-requisitos
